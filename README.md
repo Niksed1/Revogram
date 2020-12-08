@@ -65,7 +65,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Smooth ride. 
+Glide transgormations does not round corners
 
 ## Open-source libraries used
 
